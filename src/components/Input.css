@@ -1,0 +1,10 @@
+.input{
+    dispaly: flex;
+    background-color: #000;
+    outline: 1px solid #888;
+    color: #fff;
+    width: 280px;
+    height: 70px;
+    font-weight: bold;
+    font-size: 20px;
+}

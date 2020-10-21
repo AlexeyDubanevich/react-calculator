@@ -1,0 +1,23 @@
+.button{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 30px;
+    background-color: #c0e1e6;
+    color: #888;
+    outline: 1px solid #888;
+}
+.operator {
+    background-color: #fe9241;
+    color: #fff;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #7fdfff;
+}
+.operator:hover{
+    background-color: #ff4d24
+}
